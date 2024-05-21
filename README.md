@@ -30,3 +30,16 @@ To use URLHunter, run the script with the following command:
 
 ```bash
 python URLHunter.py -u URL -w WORDLIST
+```
+## Example
+```bash
+python urlhunter.py -u https://example.com -w wordlists/common.txt
+```
+This will scan https://example.com using the wordlist common.txt.
+
+## Options
+- -u, --url: Base URL to scan (required)
+- -w, --wordlist: Path to the wordlist file (required)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
