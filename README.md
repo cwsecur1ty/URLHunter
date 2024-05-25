@@ -1,6 +1,6 @@
 # URLHunter
 
-URLHunter is a fast and efficient web directory brute forcer/scanner. It is designed to uncover hidden directories and files on web servers by using a wordlist to generate requests to specified URLs.
+URLHunter is a fast and efficient web directory brute-forcer/scanner. It is designed to uncover hidden directories and files on web servers by using a wordlist to generate requests to specified URLs.
 
 ## Features
 
@@ -43,3 +43,12 @@ This will scan https://example.com using the wordlist common.txt.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+This tool is intended for educational purposes and ethical security testing only. It should only be used on websites you own or have explicit permission to test. Unauthorized use of this tool on websites without permission is illegal and unethical.
+
+The authors and contributors of DirBuster are not responsible for any misuse or damage caused by this tool. Always obtain proper authorization before performing any security testing.
+
+Using this tool, you agree to comply with all applicable laws and regulations and take full responsibility for your actions.
+
