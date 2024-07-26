@@ -14,7 +14,7 @@ URLHunter is a fast and efficient web directory brute-forcer/scanner. It is desi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/URLHunter-Web-Directory-Scanner.git
+    git clone https://github.com/cwsecur1ty/URLHunter.git
     cd URLHunter-Web-Directory-Scanner
     ```
 
